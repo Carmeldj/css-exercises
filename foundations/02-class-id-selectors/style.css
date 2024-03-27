@@ -1,0 +1,20 @@
+.odd {
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+  background-color: rgb(255, 192, 203);
+}
+
+.odd.spec {
+  font-weight: bold;
+  font-size: 24px;
+}
+
+#uniq1 {
+  font-size: 36px;
+  color: rgb(0, 0, 255);
+}
+
+#uniq2 {
+  background-color: rgb(144, 238, 144);
+  font-size: 24;
+  font-weight: bold;
+}
